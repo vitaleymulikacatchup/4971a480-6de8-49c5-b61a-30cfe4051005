@@ -1,0 +1,6 @@
+/* ============================================ */
+/* External CSS from https://zpep.com.ua/wp-content/plugins/simple-spoiler/css/simple-spoiler.min.css?ver=1.2 */
+/* Original size: 159 bytes */
+/* ============================================ */
+
+.spoiler-head{padding:10px;cursor:pointer}.folded:before{content:"+";margin-right:5px}.unfolded:before{content:"–";margin-right:5px}.spoiler-body{padding:10px}
